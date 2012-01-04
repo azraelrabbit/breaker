@@ -1,0 +1,12 @@
+D:\WorkSpace\GameDev\SuperWebSocket(Drop 8)\SuperWebSocket\bin\Debug\SuperWebSocket.dll
+D:\WorkSpace\GameDev\SuperWebSocket(Drop 8)\SuperWebSocket\bin\Debug\SuperWebSocket.pdb
+D:\WorkSpace\GameDev\SuperWebSocket(Drop 8)\SuperWebSocket\bin\Debug\log4net.dll
+D:\WorkSpace\GameDev\SuperWebSocket(Drop 8)\SuperWebSocket\bin\Debug\Newtonsoft.Json.dll
+D:\WorkSpace\GameDev\SuperWebSocket(Drop 8)\SuperWebSocket\bin\Debug\SuperSocket.Common.dll
+D:\WorkSpace\GameDev\SuperWebSocket(Drop 8)\SuperWebSocket\bin\Debug\SuperSocket.SocketBase.dll
+D:\WorkSpace\GameDev\SuperWebSocket(Drop 8)\SuperWebSocket\bin\Debug\Newtonsoft.Json.pdb
+D:\WorkSpace\GameDev\SuperWebSocket(Drop 8)\SuperWebSocket\bin\Debug\SuperSocket.Common.pdb
+D:\WorkSpace\GameDev\SuperWebSocket(Drop 8)\SuperWebSocket\bin\Debug\SuperSocket.SocketBase.pdb
+D:\WorkSpace\GameDev\SuperWebSocket(Drop 8)\SuperWebSocket\obj\Debug\ResolveAssemblyReference.cache
+D:\WorkSpace\GameDev\SuperWebSocket(Drop 8)\SuperWebSocket\obj\Debug\SuperWebSocket.dll
+D:\WorkSpace\GameDev\SuperWebSocket(Drop 8)\SuperWebSocket\obj\Debug\SuperWebSocket.pdb

@@ -1,0 +1,14 @@
+D:\WorkSpace\GameDev\SuperWebSocket(Drop 8)\Samples\JsonCommandAssembly\bin\Debug\SuperWebSocket.Service.exe.config
+D:\WorkSpace\GameDev\SuperWebSocket(Drop 8)\Samples\JsonCommandAssembly\bin\Debug\SuperWebSocket.Samples.JsonCommandAssembly.dll
+D:\WorkSpace\GameDev\SuperWebSocket(Drop 8)\Samples\JsonCommandAssembly\bin\Debug\SuperWebSocket.Samples.JsonCommandAssembly.pdb
+D:\WorkSpace\GameDev\SuperWebSocket(Drop 8)\Samples\JsonCommandAssembly\bin\Debug\SuperSocket.Common.dll
+D:\WorkSpace\GameDev\SuperWebSocket(Drop 8)\Samples\JsonCommandAssembly\bin\Debug\SuperSocket.SocketBase.dll
+D:\WorkSpace\GameDev\SuperWebSocket(Drop 8)\Samples\JsonCommandAssembly\bin\Debug\SuperWebSocket.dll
+D:\WorkSpace\GameDev\SuperWebSocket(Drop 8)\Samples\JsonCommandAssembly\bin\Debug\Newtonsoft.Json.dll
+D:\WorkSpace\GameDev\SuperWebSocket(Drop 8)\Samples\JsonCommandAssembly\bin\Debug\SuperWebSocket.pdb
+D:\WorkSpace\GameDev\SuperWebSocket(Drop 8)\Samples\JsonCommandAssembly\bin\Debug\SuperSocket.Common.pdb
+D:\WorkSpace\GameDev\SuperWebSocket(Drop 8)\Samples\JsonCommandAssembly\bin\Debug\SuperSocket.SocketBase.pdb
+D:\WorkSpace\GameDev\SuperWebSocket(Drop 8)\Samples\JsonCommandAssembly\bin\Debug\Newtonsoft.Json.pdb
+D:\WorkSpace\GameDev\SuperWebSocket(Drop 8)\Samples\JsonCommandAssembly\obj\Debug\ResolveAssemblyReference.cache
+D:\WorkSpace\GameDev\SuperWebSocket(Drop 8)\Samples\JsonCommandAssembly\obj\Debug\SuperWebSocket.Samples.JsonCommandAssembly.dll
+D:\WorkSpace\GameDev\SuperWebSocket(Drop 8)\Samples\JsonCommandAssembly\obj\Debug\SuperWebSocket.Samples.JsonCommandAssembly.pdb
